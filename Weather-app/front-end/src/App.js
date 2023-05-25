@@ -45,8 +45,8 @@ function App() {
       </div>
       <BrowserRouter>
         <Routes>
-          <Route path='/' element={<DashBoard/>}>
-            <Route path='/' element={currentWeather && <Weather data={currentWeather}/>}/>
+          <Route path='/' element={<><DashBoard/></>}>
+            <Route path='/weather' element={currentWeather && <Weather data={currentWeather}/>}/>
             <Route path='/forecast' element={<><ForeCast data={foreCast}/></>}/>
           </Route>
         </Routes>
