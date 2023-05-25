@@ -8,6 +8,10 @@ This repository is for a website which takes name of city as an input (with auto
 ## Deployed link: https://anurag-weather1app.netlify.app/ 
 
 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
