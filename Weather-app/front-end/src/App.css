@@ -1,0 +1,12 @@
+.container{
+  max-width:1080px;
+  margin: 35px auto;
+  /* color: aqua; */
+  /* background-color: grey; */
+}
+.search-bar{
+  width: 86.2%;
+  margin-left: 13.6%;
+}
+
+
