@@ -33,7 +33,7 @@ const ForeCast=({data})=>{
                                 </div>
                                 <div className="daily-details-grid-item">
                                     <label style={{fontWeight:'light'}}>Visibility: </label>
-                                    <label style={{fontWeight:'bold'}}>{data.visibility}m</label>
+                                    <label style={{fontWeight:'bold'}}>{item.visibility}m</label>
                                 </div>
                                 <div className="daily-details-grid-item">
                                     <label style={{fontWeight:'light'}}>Humidity</label>
