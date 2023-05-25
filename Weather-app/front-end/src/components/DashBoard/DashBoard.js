@@ -9,7 +9,7 @@ const DashBoard = () => {
     <nav >
         <ul>
             <li class="nav-list">
-                <NavLink to='/weather' className='st-option'>
+                <NavLink to='/' className='st-option'>
                     {/* <i class="fa-solid fa-clipboard fa-2x fas"></i> */}
                     <i class="fa-solid fa-cloud fa-2x fas"></i>
                     <span class="nav-item">Current Weather</span>
